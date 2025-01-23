@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.*;
 
 
-public class MidtermPasswordEncrypt {
+public class MidtermPasswordDecrypt {
 
     public void writeFile(String pathname, String text){
         Writer writer = null;
